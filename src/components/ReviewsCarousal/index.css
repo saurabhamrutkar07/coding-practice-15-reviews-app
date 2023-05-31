@@ -1,0 +1,37 @@
+.review-container{
+    color: #ffffff;
+    font-family: 'Roboto';
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.main-heading{
+    font-size: 34px;
+}
+.carousel-container{
+    display: flex;
+}
+.arrow-button{
+    height: 30px;
+    margin: auto;
+    background-color: transparent;
+    border: transparent;
+}
+.review{
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.company{
+    color: #171f46;
+    font-weight: 500;
+}
+.description{
+    color: #171f46;
+    font-weight: 600;
+    font-size: 18px;
+}
